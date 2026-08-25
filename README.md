@@ -19,3 +19,7 @@ SQL analysis of 19,239 FIFA 22 players to find insights about market value, wage
 
 ## Dataset
 Kaggle FIFA 22 Complete Player Dataset
+
+## 📊 Tableau Dashboard
+View the interactive dashboard here:
+https://public.tableau.com/views/FIFA22PlayerAnalysisDashboard/FIFA22PlayerAnalysisDashboard
